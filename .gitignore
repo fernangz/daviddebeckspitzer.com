@@ -13,5 +13,6 @@ github.passphrase
 history.sh
 rebase.sh
 restore.sh
+publish.sh
 ssh_add.sh
 push.sh
