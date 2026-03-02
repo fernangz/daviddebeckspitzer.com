@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Credentials (keep local only)
+github.key
+github.key.pub
+github.passphrase
+
+# Scripts (local utilities)
+history.sh
+rebase.sh
+restore.sh
+ssh_add.sh
+push.sh
